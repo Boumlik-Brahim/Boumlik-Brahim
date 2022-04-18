@@ -11,8 +11,6 @@
 <h2 style="color: blue" > 42 Cursus <h2>
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/bbrahim" alt="bbrahim's 42 stats" /></a>
   
-<h3 align="left">Languages and Tools:</h3>
-
 <a href="https://github.com/Boumlik-Brahim">
 </a>
 <br>
