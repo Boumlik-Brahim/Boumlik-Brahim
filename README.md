@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Boumlik Brahim</h1>
-<h3 align="center">I'm a Junior Software Developer and currently pursuing my education at "1337 - LEET" coding school in Khouribga.</h3>
+<!-- <h3 align="center">I'm a Junior Software Developer and currently pursuing my education at "1337 - LEET" coding school in Khouribga.</h3> -->
 
-- I’m currently working on **ft_transcendence**
+
+<!--- I’m currently working on **ft_transcendence**
 
 - I’m currently learning the **42 cursus**
 
-- How to reach me **boumlik01brahim@gmail.com**
+- How to reach me **boumlik01brahim@gmail.com** -->
 
 <div align="center">
 <br>
