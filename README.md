@@ -3,7 +3,7 @@
 # Brahim Boumlik
 ### Technical Lead & Software Engineer
 
-**Casablanca, Morocco · Remote**
+**Casablanca, Morocco**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-boumlikbrahim.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boumlikbrahim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahim-boumlik)
