@@ -3,10 +3,10 @@
 # Brahim Boumlik
 ### Technical Lead & Software Engineer
 
-**Casablanca, Morocco**
+**Casablanca, Morocco · Remote**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-boumlikbrahim.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boumlikbrahim.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brahim-boumlik)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-boumlik-4159b722b/)
 [![Email](https://img.shields.io/badge/Email-contact@boumlikbrahim.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@boumlikbrahim.com)
 
 </div>
@@ -15,7 +15,7 @@
 
 ## Who I Am
 
-Technical Lead at **Fygurs** (Paris, Remote) — leading a team of 5 engineers building production SaaS on Azure. Graduate of **1337 Coding School** (42 Network / UM6P ecosystem), RNCP7, Level 21.
+Technical Lead at **[Fygurs](https://fygurs.com)** (Paris, Remote) — leading a team of 5 engineers building production SaaS on Azure. Graduate of **1337 Coding School** (42 Network / UM6P ecosystem), RNCP7, Level 21.
 
 I work across the full stack — from microservices architecture and cloud infrastructure to kernel development and binary exploitation. I've reduced CI/CD deployment times by **40%**, shipped GPT-4o-mini–powered features in production, and managed auth systems and Stripe payment infrastructure end to end.
 
@@ -72,6 +72,13 @@ I write about what I build at **[boumlikbrahim.com/blog](https://www.boumlikbrah
 
 ## Selected Projects
 
+### Fygurs — AI-Powered Product Management SaaS *(Production)*
+Technical Lead on a B2B SaaS platform for product management and roadmapping. Architected and shipped a multi-service backend on Azure: NestJS microservices communicating over TCP and RabbitMQ, Django data services, Next.js frontend, PostgreSQL Flexible Server, Azure Container Apps. Integrated GPT-4o-mini for AI-powered feature prioritization. Led a team of 5 engineers across 2 countries, reduced CI/CD pipeline time by 40%.
+
+→ [fygurs.com](https://fygurs.com) · [app.fygurs.com](https://app.fygurs.com)
+
+---
+
 ### ft_transcendence — Real-Time Multiplayer Platform
 Built a full multiplayer gaming platform from scratch. The challenge: real-time game state sync across concurrent users with no lag tolerance. Solved with WebSocket-based game mechanics (Socket.io), OAuth authentication, live chat rooms, and real-time leaderboards. Stack: TypeScript, Next.js, NestJS, Prisma, PostgreSQL, Docker.
 
@@ -111,11 +118,13 @@ Rebuilt a Unix shell from scratch: pipes, redirections, SIGINT/SIGQUIT signal ha
 
 ---
 
-## 1337 Cursus Progress
+## Education
+
+**1337 Coding School** · 42 Network / UM6P Ecosystem · Graduated Level 21 — IT Architecture Expert (RNCP7 equivalent)
 
 <div align="center">
 <a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/binary/bbrahim" alt="Brahim Boumlik — 1337 Coding School (42 Network) progress stats" />
+  <img src="https://badge.mediaplus.ma/binary/bbrahim" alt="Brahim Boumlik — 1337 Coding School graduate (42 Network)" />
 </a>
 </div>
 
@@ -127,7 +136,7 @@ Rebuilt a Unix shell from scratch: pipes, redirections, SIGINT/SIGQUIT signal ha
 |---|---|
 | 🌐 Portfolio | [boumlikbrahim.com](https://www.boumlikbrahim.com) |
 | ✍️ Blog | [boumlikbrahim.com/blog](https://www.boumlikbrahim.com/blog) |
-| 💼 LinkedIn | [linkedin.com/in/brahim-boumlik](https://linkedin.com/in/brahim-boumlik) |
+| 💼 LinkedIn | [linkedin.com/in/brahim-boumlik-4159b722b](https://www.linkedin.com/in/brahim-boumlik-4159b722b/) |
 | 📧 Email | [contact@boumlikbrahim.com](mailto:contact@boumlikbrahim.com) |
 
 ---
