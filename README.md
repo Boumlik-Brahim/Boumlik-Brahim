@@ -20,9 +20,7 @@
 
 <br>
 
-<a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/binary/bbrahim" alt="bbrahim — 1337 Coding School / 42 Network" />
-</a>
+[![bbrahim's 42 stats](https://badge.mediaplus.ma/black/bbrahim)](https://github.com/oakoudad/badge42)
 
 </div>
 
@@ -89,7 +87,7 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 ---
 
-### ft_transcendence — Real-Time Multiplayer Platform
+### ft_transcendence — Real-Time Multiplayer Platform <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" height="28" />
 
 **The problem:** Real-time game state synchronization across concurrent users where frame inconsistency feels like physics breaking — while simultaneously building auth, chat, and leaderboards.
 
@@ -111,7 +109,7 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 ---
 
-### minishell — Unix Shell in C
+### minishell — Unix Shell in C <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" height="28" />
 
 **The problem:** Rebuild a POSIX-compliant Unix shell from scratch — the program every developer uses daily but almost nobody understands at the system level.
 
@@ -141,7 +139,7 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 ---
 
-### Inception-of-Things & Cloud-1 — Kubernetes GitOps from Scratch
+### Inception-of-Things & Cloud-1 — Kubernetes GitOps from Scratch <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" height="28" />
 
 **The problem:** Stand up a production-grade, multi-node Kubernetes environment — GitOps-driven with real ingress routing — entirely from local VMs, no managed cloud.
 
@@ -172,15 +170,6 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 </div>
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" width="100%" />
-</picture>
-
-</div>
 
 ---
 
