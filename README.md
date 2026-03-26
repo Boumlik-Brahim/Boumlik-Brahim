@@ -1,108 +1,153 @@
 <div align="center">
 
-# Brahim Boumlik
-### Technical Lead & Software Engineer
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.boumlikbrahim.com/White-BB-BrandLogo.png" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.boumlikbrahim.com/Black-BB-BrandLogo.png" />
+  <img src="https://www.boumlikbrahim.com/White-BB-BrandLogo.png" alt="Brahim Boumlik Logo" height="80" />
+</picture>
 
-**Casablanca, Morocco · Remote**
+# Brahim Boumlik
+
+*I wrote the bootloader, the heap allocator, and the interrupt handlers.*
+*I also lead the team shipping AI-powered SaaS to production on Azure.*
+*Neither is a hobby.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-boumlikbrahim.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boumlikbrahim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-boumlik-4159b722b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Boumlik--Brahim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boumlik-Brahim)
 [![Email](https://img.shields.io/badge/Email-contact@boumlikbrahim.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@boumlikbrahim.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Boumlik-Brahim&style=for-the-badge&color=555555&label=PROFILE+VIEWS&abbreviated=true)
+
+<br>
+
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/black/bbrahim" alt="bbrahim — 1337 Coding School / 42 Network" />
+</a>
 
 </div>
 
 ---
 
-## Who I Am
-
-Technical Lead at **[Fygurs](https://fygurs.com)** (Paris, Remote) — leading a team of 5 engineers building production SaaS on Azure. Graduate of **1337 Coding School** (42 Network / UM6P ecosystem), RNCP7, Level 21.
-
-I work across the full stack — from microservices architecture and cloud infrastructure to kernel development and binary exploitation. I've reduced CI/CD deployment times by **40%**, shipped GPT-4o-mini–powered features in production, and managed auth systems and Stripe payment infrastructure end to end.
-
-I write about what I build at **[boumlikbrahim.com/blog](https://www.boumlikbrahim.com/blog)**.
+Full-stack **Technical Lead** with 2+ years shipping distributed systems and cloud-native microservices on Azure — 5 engineers, 24+ sprints, 99.8% uptime, GPT-4o in production (Paris, Remote).
+Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master's equivalent). I work from kernel memory management up to cloud architecture — the low-level work shapes every high-level decision.
 
 ---
 
-## What I'm Working On
+## Currently Shipping
 
-- Leading full-stack engineering at **Fygurs** — Next.js, NestJS, Django, PostgreSQL, RabbitMQ, Azure
-- Building microservices in a Turborepo monorepo with TCP and message-queue communication
-- Managing cloud infrastructure: Azure Container Apps, PostgreSQL Flexible Server, Blob Storage
-- Shipping AI-powered product features using GPT-4o-mini
+- Architecting a multi-service backend on Azure Container Apps: NestJS microservices over TCP/RabbitMQ, Django AI service with GPT-4o, Next.js frontend — all in a Turborepo monorepo
+- Managing CI/CD pipelines, cloud infrastructure, and cross-team deployments for a distributed engineering team across 2 countries
+- Iterating on AI-powered product features and real-time analytics shipped to paying B2B customers
+
+→ [app.fygurs.com](https://app.fygurs.com)
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,c,cpp,php&theme=dark&perline=6)](https://skillicons.dev)
 
-**Frontend & Backend**
+**Backend**
 
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,django,laravel,rabbitmq,redis&theme=dark&perline=6)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark&perline=6)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![DevOps](https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,nginx,linux&theme=dark&perline=6)](https://skillicons.dev)
+
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Databases**
 
-![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=postgres,prisma,mysql,mariadb&theme=dark&perline=6)](https://skillicons.dev)
 
-**DevOps & Cloud**
-
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
 
 ---
 
 ## Selected Projects
 
-### Fygurs — AI-Powered Product Management SaaS *(Production)*
-Technical Lead on a B2B SaaS platform for product management and roadmapping. Architected and shipped a multi-service backend on Azure: NestJS microservices communicating over TCP and RabbitMQ, Django data services, Next.js frontend, PostgreSQL Flexible Server, Azure Container Apps. Integrated GPT-4o-mini for AI-powered feature prioritization. Led a team of 5 engineers across 2 countries, reduced CI/CD pipeline time by 40%.
+### Fygurs — AI-Powered Product Management SaaS *(Production · Technical Lead)*
+
+**The problem:** Coordinate 5 engineers across 2 countries in a monorepo where multiple services must deploy independently — without a 2-hour pipeline blocking every release — and integrate AI without coupling it to the core backend.
+
+**How I solved it:** Turborepo monorepo with service-level Docker builds and GitHub Actions pipelines (caching + parallelization) — pipeline from 2 hours to 15 minutes. Azure Container Apps for isolated, independently scalable services. NestJS microservices over TCP for synchronous calls, RabbitMQ for async events. GPT-4o in a dedicated Django service — the AI layer is a service boundary, not a library import. PostgreSQL Flexible Server + Blob Storage, 99.8% uptime.
+
+**What it proved:** Monorepos succeed in production when the build system is a first-class engineering problem. AI belongs behind a service interface, not inline in business logic.
 
 → [fygurs.com](https://fygurs.com) · [app.fygurs.com](https://app.fygurs.com)
 
 ---
 
 ### ft_transcendence — Real-Time Multiplayer Platform
-Built a full multiplayer gaming platform from scratch. The challenge: real-time game state sync across concurrent users with no lag tolerance. Solved with WebSocket-based game mechanics (Socket.io), OAuth authentication, live chat rooms, and real-time leaderboards. Stack: TypeScript, Next.js, NestJS, Prisma, PostgreSQL, Docker.
+
+**The problem:** Real-time game state synchronization across concurrent users where frame inconsistency feels like physics breaking — while simultaneously building auth, chat, and leaderboards.
+
+**How I solved it:** Server-authoritative game loop over Socket.io — the client renders what the server says, not what it guesses. OAuth 2.0 authentication, live chat with channel management, real-time leaderboard backed by PostgreSQL with Prisma. Entire stack containerized: TypeScript, Next.js, NestJS, Docker.
+
+**What it proved:** Real-time multiplayer is a state ownership problem before it's a WebSocket problem. If the client has any authority over game state, you've already lost.
 
 → [github.com/Boumlik-Brahim/ft_transcendence](https://github.com/Boumlik-Brahim/ft_transcendence)
 
 ---
 
-### KFS-1 & KFS-2 — 32-bit Kernel From Scratch
-Wrote an operating system kernel from the ground up in C and Assembly. No libraries. No abstractions. Implemented: GRUB bootloader, VGA display driver, GDT/IDT configuration, ISR/IRQ interrupt handling, keyboard driver, memory paging, heap allocator, PIT/RTC timing. This project changed how I think about production memory management.
+### KFS-1 & KFS-2 — 32-bit Kernel in C and Assembly
 
----
+**The problem:** Build a functioning OS kernel with no standard library, no OS primitives, no abstractions. Every layer must be correct before the next one can exist.
 
-### Inception-of-Things & Cloud-1 — Kubernetes GitOps
-Built complete Kubernetes environments using K3s, K3d, and Vagrant. Implemented GitOps continuous deployment workflows with Argo CD and Traefik ingress controller. Simulated production-grade container orchestration from infrastructure up.
+**How I solved it:** GRUB bootloader → VGA display driver → GDT/IDT configuration → ISR/IRQ interrupt handling → keyboard driver → memory paging → heap allocator → PIT/RTC timing. Each component hand-written in C and x86 Assembly. No shortcuts, no libraries.
 
----
-
-### Snow-Crash, Rainfall, Override — CTF Security
-Completed 14-level capture-the-flag challenges covering buffer overflow exploitation, reverse engineering with GDB, privilege escalation, binary analysis, and password cracking. This isn't academic — it directly shapes how I think about security boundaries in production systems.
+**What it proved:** Writing a heap allocator changes how you read memory profiler output. Implementing interrupt handling reframes every async I/O system you'll ever build. I debug differently now.
 
 ---
 
 ### minishell — Unix Shell in C
-Rebuilt a Unix shell from scratch: pipes, redirections, SIGINT/SIGQUIT signal handling, process management (fork, execve, wait), environment variables, and built-in commands. Forced a deep understanding of how operating systems actually run processes.
+
+**The problem:** Rebuild a POSIX-compliant Unix shell from scratch — the program every developer uses daily but almost nobody understands at the system level.
+
+**How I solved it:** Lexer, parser, and execution engine in C. Pipes, redirections, here-docs, SIGINT/SIGQUIT signal handling, process management (fork/execve/wait), environment variable expansion, and all required built-in commands.
+
+**What it proved:** The shell is the most honest introduction to how an OS runs processes. After this, system calls stopped being magic.
+
+---
+
+### Snow-Crash · Rainfall · Override — Binary Exploitation CTFs
+
+**The problem:** 14 escalating levels — buffer overflows, reverse engineering ELF binaries with GDB, privilege escalation via SUID, return-oriented programming — no documentation, no hints.
+
+**How I solved it:** A repeatable methodology: disassemble, map the memory layout, identify the attack vector, craft and test the payload. Privilege escalation from user to root across multiple binary protection schemes and architectures.
+
+**What it proved:** I write backend systems with a working mental model of how they look from the attacker's side. It changes what gets flagged in code review and what I refuse to ship without hardening.
+
+---
+
+### ft_shield — Educational Malware in C and Assembly *(42 Security Project)*
+
+**The problem:** Understand offensive techniques — trojans, polymorphic viruses, process injection — at the implementation level, not the conceptual one.
+
+**How I solved it:** Built a set of educational malware samples: backdoor with remote shell, self-replicating polymorphic virus with code mutation, and a process injector using ptrace. Written in C and x86 Assembly within a controlled, air-gapped environment.
+
+**What it proved:** You cannot write secure systems without understanding how they break. This project made threat modeling concrete, not theoretical.
+
+---
+
+### Inception-of-Things & Cloud-1 — Kubernetes GitOps from Scratch
+
+**The problem:** Stand up a production-grade, multi-node Kubernetes environment — GitOps-driven with real ingress routing — entirely from local VMs, no managed cloud.
+
+**How I solved it:** K3s cluster on Vagrant VMs, K3d for local dev parity. Argo CD as the GitOps controller — git is the authoritative source for cluster state, not kubectl commands. Traefik ingress for routing. Every infrastructure change is a PR.
+
+**What it proved:** Infrastructure that isn't in version control isn't infrastructure — it's technical debt waiting to manifest. This is now the mental model behind every cloud environment I architect.
 
 ---
 
@@ -110,40 +155,54 @@ Rebuilt a Unix shell from scratch: pipes, redirections, SIGINT/SIGQUIT signal ha
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Boumlik-Brahim&theme=swift&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Boumlik-Brahim&theme=swift&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boumlik-Brahim&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Activity -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Boumlik-Brahim&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&area_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&radius=6)](https://github.com/Boumlik-Brahim)
 
-</div>
+<br>
 
----
+<!-- Trophies -->
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Boumlik-Brahim&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/Boumlik-Brahim)
 
-## Education
+<br>
 
-**1337 Coding School** · 42 Network / UM6P Ecosystem · Graduated Level 21 — IT Architecture Expert (RNCP7 equivalent)
+<!-- Stats + Streak -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=70a5fd&rank_icon=github&custom_title=GitHub%20Stats&card_width=400&border_radius=10" />
+<img height="180em" src="https://streak-stats.demolab.com/?user=Boumlik-Brahim&theme=tokyonight&hide_border=true&card_width=400&border_radius=10&fire=bf91f3&ring=70a5fd&currStreakLabel=70a5fd" />
 
-<div align="center">
-<a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/binary/bbrahim" alt="Brahim Boumlik — 1337 Coding School graduate (42 Network)" />
-</a>
+<br>
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&card_width=820&border_radius=10" />
+
+<br>
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" />
+</picture>
+
 </div>
 
 ---
 
 ## Find Me
 
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [boumlikbrahim.com](https://www.boumlikbrahim.com) |
-| ✍️ Blog | [boumlikbrahim.com/blog](https://www.boumlikbrahim.com/blog) |
-| 💼 LinkedIn | [linkedin.com/in/brahim-boumlik-4159b722b](https://www.linkedin.com/in/brahim-boumlik-4159b722b/) |
-| 📧 Email | [contact@boumlikbrahim.com](mailto:contact@boumlikbrahim.com) |
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-boumlikbrahim.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boumlikbrahim.com)
+[![Blog](https://img.shields.io/badge/Blog-boumlikbrahim.com/blog-black?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.boumlikbrahim.com/blog)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-boumlik-4159b722b/)
+[![GitHub](https://img.shields.io/badge/GitHub-Boumlik--Brahim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boumlik-Brahim)
+[![Email](https://img.shields.io/badge/Email-contact@boumlikbrahim.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@boumlikbrahim.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Brahim Boumlik — Technical Lead based in Casablanca, Morocco.*
-*Open to senior remote engineering roles in EU/US companies.*
+Building distributed systems from Casablanca, Morocco — open to senior engineering and technical leadership roles worldwide.
 
 </div>
