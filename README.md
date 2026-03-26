@@ -21,7 +21,7 @@
 <br>
 
 <a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/black/bbrahim" alt="bbrahim — 1337 Coding School / 42 Network" />
+  <img src="https://badge.mediaplus.ma/binary/bbrahim" alt="bbrahim — 1337 Coding School / 42 Network" />
 </a>
 
 </div>
@@ -155,32 +155,29 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 <div align="center">
 
-<!-- Activity -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Boumlik-Brahim&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&area_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&radius=6)](https://github.com/Boumlik-Brahim)
+<img width="100%" src="https://streak-stats.demolab.com/?user=Boumlik-Brahim&theme=tokyonight&hide_border=true&border_radius=12&fire=bf91f3&ring=70a5fd&currStreakLabel=70a5fd&sideLabels=bf91f3&dates=a9b1d6&stroke=1a1b27" />
 
-<br>
+</div>
 
-<!-- Trophies -->
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Boumlik-Brahim&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SSS,SS,S,AAA,AA,A,B)](https://github.com/Boumlik-Brahim)
+<div align="center">
 
-<br>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=70a5fd&rank_icon=github&border_radius=12&card_width=450" />
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&layout=donut-vertical&langs_count=7&border_radius=12&card_width=330" />
 
-<!-- Stats + Streak -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=70a5fd&rank_icon=github&custom_title=GitHub%20Stats&card_width=400&border_radius=10" />
-<img height="180em" src="https://streak-stats.demolab.com/?user=Boumlik-Brahim&theme=tokyonight&hide_border=true&card_width=400&border_radius=10&fire=bf91f3&ring=70a5fd&currStreakLabel=70a5fd" />
+</div>
 
-<br>
+<div align="center">
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&card_width=820&border_radius=10" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Boumlik-Brahim&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=70a5fd&line=70a5fd&point=bf91f3&area_color=1a1b27&radius=6" />
 
-<br>
+</div>
 
-<!-- Snake -->
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Boumlik-Brahim/Boumlik-Brahim/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
