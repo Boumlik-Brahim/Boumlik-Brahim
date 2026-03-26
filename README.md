@@ -13,10 +13,10 @@
 *Neither is a hobby.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-boumlikbrahim.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boumlikbrahim.com)
+[![Blog](https://img.shields.io/badge/Blog-boumlikbrahim.com/blog-black?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.boumlikbrahim.com/blog)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-boumlik-4159b722b/)
 [![GitHub](https://img.shields.io/badge/GitHub-Boumlik--Brahim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boumlik-Brahim)
 [![Email](https://img.shields.io/badge/Email-contact@boumlikbrahim.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@boumlikbrahim.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Boumlik-Brahim&style=for-the-badge&color=555555&label=PROFILE+VIEWS&abbreviated=true)
 
 <br>
 
@@ -35,41 +35,7 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 - Architecting a multi-service backend on Azure Container Apps: NestJS microservices over TCP/RabbitMQ, Django AI service with GPT-4o, Next.js frontend — all in a Turborepo monorepo
 - Managing CI/CD pipelines, cloud infrastructure, and cross-team deployments for a distributed engineering team across 2 countries
-- Iterating on AI-powered product features and real-time analytics shipped to paying B2B customers
-
-→ [app.fygurs.com](https://app.fygurs.com)
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,c,cpp,php&theme=dark&perline=6)](https://skillicons.dev)
-
-**Backend**
-
-[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,django,laravel,rabbitmq,redis&theme=dark&perline=6)](https://skillicons.dev)
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark&perline=6)](https://skillicons.dev)
-
-**Cloud & DevOps**
-
-[![DevOps](https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,nginx,linux&theme=dark&perline=6)](https://skillicons.dev)
-
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Databases**
-
-[![Databases](https://skillicons.dev/icons?i=postgres,prisma,mysql,mariadb&theme=dark&perline=6)](https://skillicons.dev)
-
-</div>
+- Iterating on AI-powered product features and real-time analytics shipped to paying B2B customers at [app.fygurs.com](https://app.fygurs.com)
 
 ---
 
@@ -87,7 +53,7 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 ---
 
-### ft_transcendence — Real-Time Multiplayer Platform <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" height="28" />
+### ft_transcendence — Real-Time Multiplayer Platform
 
 **The problem:** Real-time game state synchronization across concurrent users where frame inconsistency feels like physics breaking — while simultaneously building auth, chat, and leaderboards.
 
@@ -109,7 +75,7 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 ---
 
-### minishell — Unix Shell in C <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" height="28" />
+### minishell — Unix Shell in C
 
 **The problem:** Rebuild a POSIX-compliant Unix shell from scratch — the program every developer uses daily but almost nobody understands at the system level.
 
@@ -139,13 +105,45 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 ---
 
-### Inception-of-Things & Cloud-1 — Kubernetes GitOps from Scratch <img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception.webp" height="28" />
+### Inception-of-Things & Cloud-1 — Kubernetes GitOps from Scratch
 
 **The problem:** Stand up a production-grade, multi-node Kubernetes environment — GitOps-driven with real ingress routing — entirely from local VMs, no managed cloud.
 
 **How I solved it:** K3s cluster on Vagrant VMs, K3d for local dev parity. Argo CD as the GitOps controller — git is the authoritative source for cluster state, not kubectl commands. Traefik ingress for routing. Every infrastructure change is a PR.
 
 **What it proved:** Infrastructure that isn't in version control isn't infrastructure — it's technical debt waiting to manifest. This is now the mental model behind every cloud environment I architect.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,python,c,cpp,php&theme=dark&perline=6)](https://skillicons.dev)
+
+**Backend**
+
+[![Backend](https://skillicons.dev/icons?i=nestjs,nodejs,django,laravel,rabbitmq,redis&theme=dark&perline=6)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark&perline=6)](https://skillicons.dev)
+
+**Cloud & DevOps**
+
+[![DevOps](https://skillicons.dev/icons?i=azure,docker,kubernetes,githubactions,nginx,linux&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
+
+<div align="center">
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,prisma,mysql,mariadb&theme=dark&perline=6)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -157,6 +155,8 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img height="195" src="https://github-readme-stats.vercel.app/api?username=Boumlik-Brahim&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=70a5fd&rank_icon=github&border_radius=12&card_width=450" />
@@ -164,24 +164,41 @@ Graduate of **1337 Coding School / 42 Network** (RNCP7 · EQF Level 7 · Master'
 
 </div>
 
+<br>
+
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Boumlik-Brahim&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&color=70a5fd&line=70a5fd&point=bf91f3&area_color=1a1b27&radius=6" />
 
 </div>
 
-
 ---
 
-## Find Me
+## 42 Cursus
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-boumlikbrahim.com-black?style=for-the-badge&logo=vercel&logoColor=white)](https://www.boumlikbrahim.com)
-[![Blog](https://img.shields.io/badge/Blog-boumlikbrahim.com/blog-black?style=for-the-badge&logo=hashnode&logoColor=white)](https://www.boumlikbrahim.com/blog)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brahim_Boumlik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-boumlik-4159b722b/)
-[![GitHub](https://img.shields.io/badge/GitHub-Boumlik--Brahim-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Boumlik-Brahim)
-[![Email](https://img.shields.io/badge/Email-contact@boumlikbrahim.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@boumlikbrahim.com)
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/common_core.webp" height="90" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/libft_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/get_next_line_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_printf_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/born2beroot_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/so_long_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minitalk_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/push_swap_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/philosophers_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/minishell.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/netpractice.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cpp.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/cub3d_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/inception_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_irc_bonus.webp" height="62" />
+<img src="https://github.com/leogaudin/42_project_badges/raw/main/badges/ft_transcendence.webp" height="62" />
 
 </div>
 
